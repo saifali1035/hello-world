@@ -3,7 +3,7 @@
 	  <h1>Updated to check POLL SCM</h1>
 	  <h1>Updated to check container automation</h1>
 	  <h1>Updated to use ansible to create image and push to hub automated</h1>
-	  <h1> New Udpate Final </h1>
+	  <h1> New Udpate Final v2 </h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
